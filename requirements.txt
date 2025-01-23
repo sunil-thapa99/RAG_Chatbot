@@ -9,3 +9,8 @@ langchain-ollama
 unstructured[pdf]
 onnx==1.16.1
 qdrant-client
+fitz
+pytesseract
+pillow
+PyPDF2==2.12.1
+PyMuPDF==1.24.9
